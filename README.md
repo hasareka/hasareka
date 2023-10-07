@@ -7,7 +7,7 @@
 - 📝 I write articles on [https://medium.com/@hasareka](https://medium.com/@hasareka)
 
 - 📫 How to reach me **hasarekat@gmail.com**
-- <a href="https://iconscout.com/icons/hackerrank" class="text-underline font-size-sm" target="_blank">Free Hackerrank Logo Icon</a> by <a href="https://iconscout.com/contributors/icon-54" class="text-underline font-size-sm">Icon 54</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a> Find me in Hackerrank [https://www.hackerrank.com/hasarekat](https://www.hackerrank.com/hasarekat)
+- <a href="https://iconscout.com/icons/hackerrank" class="text-underline font-size-sm" target="_blank"></a> <a href="https://iconscout.com/contributors/icon-54" class="text-underline font-size-sm"></a> <a href="https://iconscout.com" class="text-underline font-size-sm"></a> Find me in Hackerrank [https://www.hackerrank.com/hasarekat](https://www.hackerrank.com/hasarekat)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
